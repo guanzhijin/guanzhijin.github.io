@@ -7,12 +7,23 @@
 
 ### Honors and Awards
 
+- 
 
 ### Contact Me
 - Mail: guanzhijin@foxmail.com
 - Blogs: [博客园](https://www.cnblogs.com/guanzhijin/), [CSDN](https://blog.csdn.net/Jinzhi_Guan)
 
+## My Notes
 
+### Reading
+
+- Continuum Mechanics
+- Finite Element Method
+
+### Software
+
+- [Vim](https://www.cnblogs.com/guanzhijin/p/15692830.html)
+- VSCode
 
 
 <script type="text/javascript">
