@@ -10,9 +10,7 @@
 
 ### Contact Me
 - Mail: guanzhijin@foxmail.com
-- Blogs: 
-        - [博客园](https://www.cnblogs.com/guanzhijin/)
-        - [CSDN](https://blog.csdn.net/Jinzhi_Guan)
+- Blogs: [博客园](https://www.cnblogs.com/guanzhijin/), [CSDN](https://blog.csdn.net/Jinzhi_Guan)
 
 
 
