@@ -22,12 +22,12 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : yatengbozitong
 description: > # this means to ignore newlines until "Language & timezone"
-  A website with some stories.
+  关某人的个人博客
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: zh-Hans # the language of your site, default as "en"
 timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -147,13 +147,13 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: leancloud # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz # LeanCloud App id
+    app_key   : Mzf5m9skSwYVWVXhGiYMNyXs # LeanCloud App key
+    app_class : ThomasBlog # LeanCloud App class
 
 
 ## => Search
