@@ -27,16 +27,16 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Label
+      en      : &EN       Book
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  标签
+      zh-Hans : &ZH_HANS  书籍
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  标签
+      zh-Hant : &ZH_HANT  书籍
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       책
@@ -48,7 +48,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /label.html
+    url: /book.html
 
   - titles:
       # @start locale config
