@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Guan's Hompage"
+title                    : "个人主页"
 title_separator          : "-"
-name                     : &name "Guan Zhijin"
+name                     : &name "关志金"
 description              : &description "personal description"
 url                      : https://guanzhijin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "guanzhijin/guanzhijin.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guan Zhijin"
+  name             : "关志金"
   pronouns         : # example: "she/her"  
   bio              : "只管修行的小白"
   location         : "China"
