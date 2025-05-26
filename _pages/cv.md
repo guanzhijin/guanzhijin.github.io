@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,57 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+  
+研究方向
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 偏微分方程数值解
+* 特征值问题数值算法
+* 建模和仿真
 
-Work experience
+教育经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020.09 - 2025.06 中国科学院数学与系统科学研究院, 计算数学专业, 硕博连读
+* 2016.09 - 2020.06 湘潭大学, 数学与应用数学(韶峰班), 本科
+* 2018.09 - 2019.02 北京大学, 交流访学
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+工作经历
+======
+* 暂无
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* Matlab
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
