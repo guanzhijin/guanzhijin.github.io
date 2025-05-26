@@ -19,14 +19,14 @@ redirect_from:
 ======
 * 2020.09 - 2025.06 中国科学院数学与系统科学研究院, 计算数学专业, 硕博连读
 * 2016.09 - 2020.06 湘潭大学, 数学与应用数学(韶峰班), 本科
-* 2018.09 - 2019.02 北京大学, 交流访学
+* 2018.09 - 2019.02 北京大学, 访学
 
 科研成果
 ======
 * 论文
-  * Augmented subspace scheme for eigenvalue problem by weak Galerkin finite element method, Feng Yue; \textbf{Guan Zhijin}; Xie Hehu; Zhou Chenguang(Journal of Computational Mathematics, 已接收), arXiv: 2401.04063.
-  * Enhanced Error Estimates for Augmented Subspace Method with Crouzeix-Raviart Element, \textbf{Guan Zhijin}, Wang Yifan, Xie Hehu, Zhou Chenguang(Journal of Scientific Computing, 小修), arXiv:2405.00399. 
-  * 髋关节的有限元计算方法及应用, \textbf{关志金}, 刘昊宸, 刘镕阁, 谢和虎. (数学的实践与认识, 已接收)
+  * Augmented subspace scheme for eigenvalue problem by weak Galerkin finite element method, Feng Yue; **Guan Zhijin**; Xie Hehu; Zhou Chenguang(Journal of Computational Mathematics, 已接收), arXiv: 2401.04063.
+  * Enhanced Error Estimates for Augmented Subspace Method with Crouzeix-Raviart Element, **Guan Zhijin**, Wang Yifan, Xie Hehu, Zhou Chenguang(Journal of Scientific Computing, 小修), arXiv:2405.00399. 
+  * 髋关节的有限元计算方法及应用, **关志金**, 刘昊宸, 刘镕阁, 谢和虎. (数学的实践与认识, 已接收)
 * 软件著作权
   * 软件著作权《生物力学并行有限元平台软件》, 登记号: 2024SR1862888.
   * 软件著作权《广义共轭梯度特征值求解器软件》, 受理号: 2025R11S0878991.
