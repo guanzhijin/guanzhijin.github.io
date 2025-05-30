@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&color=447FF7&center=true&vCenter=true&width=500&height=70&lines=%e2%9c%a8+%e6%ac%a2%e8%bf%8e%e6%82%a8%e7%9a%84%e5%88%b0%e6%9d%a5!" alt="动态标题">
-</p>"
+title: "关志金的网络自留地~"
 author_profile: true
 redirect_from: 
   - /about/
