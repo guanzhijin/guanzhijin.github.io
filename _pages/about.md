@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "数字书房~"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
