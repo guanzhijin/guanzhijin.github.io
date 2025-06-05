@@ -30,7 +30,7 @@ redirect_from:
 
 ### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/Hi.gif" width="25" alt="动效" /> 您好, 我是[关志金](https://guanzhijin.github.io/cv/)
 - 🚀 &nbsp; 目前在UCAS攻读学位
-- 🔬 &nbsp; 方向: `偏微分方程数值解`, `特征值问题数值算法`, `建模与仿真`  
+- 🔬 &nbsp; 方向: `偏微分方程数值解` , `特征值问题数值算法` , `建模与仿真`  
 - 💡 &nbsp; 坚信 “ **修行之道, 贵在坚持** ” 的技术哲学
 
 ### <img src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/emoji.gif" width="25" alt="动效" /> 近期关注
