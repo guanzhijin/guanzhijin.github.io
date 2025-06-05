@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人简历"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,7 +34,7 @@ redirect_from:
 
 获奖情况
 ======
-* 中国科学院数学与系统科学研究院 2020 年度"卓越奖学金". 
+* 中国科学院数学与系统科学研究院 2020 年度``卓越奖学金". 
 * 2022 年粤港澳大湾区(黄埔)国际算法算例大赛二等奖.
 
 项目经历
