@@ -25,6 +25,9 @@ main:
     
   - title: "个人简历"
     url: /cv/
+
+  - title: "相关链接"
+    url: /links/
     
   # - title: "CV"
   #   url: /cv-json/
