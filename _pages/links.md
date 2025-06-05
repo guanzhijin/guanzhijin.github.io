@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [arxiv](https://arxiv.org/)
+* [arXiv](https://arxiv.org/)
 * [Google Scholar](https://scholar.google.com/)
 * [MathSciNet](https://mathscinet.ams.org/mathscinet/publications-search)
 * [ScienceDirect](https://www.sciencedirect.com/)
