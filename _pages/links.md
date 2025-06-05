@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-* [关志金](https://github.com/guanzhijin/) ｜ 男 ｜ 目前在UCAS攻读学位
-* 研究方向: `偏微分方程数值解` , `特征值问题数值算法` , `建模与仿真`  
+* [arxiv](https://arxiv.org/)
+* [Google Scholar](https://scholar.google.com/)
+* [MathSciNet](https://mathscinet.ams.org/mathscinet/publications-search)
+* [ScienceDirect](https://www.sciencedirect.com/)
+* [NationalScienceLibrary](https://www.las.ac.cn/)
+* [CiteSeerX](https://citeseerx.ist.psu.edu/)
+* [OnePetro](https://onepetro.org/)
+* [MathGene](https://www.genealogy.math.ndsu.nodak.edu/index.php)
+* [eScience Passport](https://passport.escience.cn/)
+* [NSFC](https://www.nsfc.gov.cn/)
+* [Grant](https://grants.nsfc.gov.cn/pmpweb/login)
 
 
