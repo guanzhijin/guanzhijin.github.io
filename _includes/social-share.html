@@ -13,12 +13,11 @@
     <i class="fab fa-weibo" aria-hidden="true"></i><span> 微博</span>
   </a>
 
-  <!-- 知乎分享按钮 -->
-  <a href="https://www.zhihu.com/question/ask?q={{ page.title | url_encode }} {{ base_path }}{{ page.url | url_encode }}" 
-     class="btn btn--zhihu" 
-     title="分享到知乎" 
+  <a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{ base_path }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" 
+     class="btn btn--qzone" 
+     title="分享到QQ空间" 
      target="_blank">
-    <i class="fab fa-zhihu" aria-hidden="true"></i><span> 知乎</span>
+    <i class="fab fa-qq" aria-hidden="true"></i><span> QQ空间</span>
   </a>
 
 </section>
