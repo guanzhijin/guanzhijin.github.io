@@ -1,7 +1,0 @@
-/* particle-effect.css */
-
-/* 假设粒子效果使用的是 canvas 元素 */
-canvas.particle-effect {
-    z-index: 100000; /* 根据需要调整 z-index */
-    opacity: 0.8; /* 根据需要调整透明度 */
-}
