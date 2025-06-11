@@ -2,38 +2,67 @@
 
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
-    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "SHARE ON" }}</h4>
+    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "分享到" }}</h4>
   {% endif %}
 
   <a href="https://service.weibo.com/share/share.php?url={{ base_path }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" 
-     class="btn btn--weibo" 
+     class="btn btn--social btn--weibo" 
      title="分享到微博" 
      target="_blank">
-    <i class="fab fa-weibo" aria-hidden="true"></i><span> 微博</span>
+    <i class="fab fa-weibo" style="color: white !important;" aria-hidden="true"></i>
+    <span style="color: white !important;"> 微博</span>
   </a>
 
   <a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{ base_path }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" 
-     class="btn btn--qzone" 
+     class="btn btn--social btn--qzone" 
      title="分享到QQ空间" 
      target="_blank">
-    <i class="fab fa-qq" aria-hidden="true"></i><span> QQ空间</span>
+    <i class="fab fa-qq" style="color: black !important;" aria-hidden="true"></i>
+    <span style="color: black !important;"> QQ空间</span>
   </a>
 
   <a href="https://t.bilibili.com/?" 
-     class="btn btn--bilibili" 
+     class="btn btn--social btn--bilibili" 
      title="分享到B站" 
      target="_blank">
-    <i class="fas fa-play-circle" aria-hidden="true"></i><span> B站</span>
+    <i class="fas fa-play-circle" style="color: white !important;" aria-hidden="true"></i>
+    <span style="color: white !important;"> B站</span>
   </a>
-  
 </section>
 
-<!--   
-  <a href="https://bsky.app/intent/compose?text={{ base_path }}{{ page.url }}" class="btn btn--bluesky" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Bluesky"><i class="fab fa-bluesky" aria-hidden="true"></i><span> Bluesky</span></a>
+<style>
+/* 为分享按钮添加专属样式 */
+.btn--social {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 15px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+.btn--social:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+.btn--weibo {
+  background-color: #e6162d; /* 微博红 */
+}
 
-  <a href="https://x.com/intent/post?text={{ base_path }}{{ page.url }}" class="btn btn--x" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} X"><i class="fab fa-x-twitter" aria-hidden="true"></i><span> X (formerly Twitter)</span></a>
-</section> -->
+.btn--qzone {
+  background-color: #FFCC00; /* QQ空间黄 */
+}
+
+.btn--bilibili {
+  background-color: #FB7299; /* B站粉 */
+}
+
+/* 解决图标大小问题 */
+.btn--social i {
+  font-size: 1.1em;
+  margin-right: 5px;
+}
+</style>
