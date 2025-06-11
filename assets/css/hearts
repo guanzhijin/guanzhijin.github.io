@@ -1,0 +1,39 @@
+.heart {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    transform: rotate(45deg);
+    animation: heartAnimation 1s ease-out forwards;
+}
+
+.heart::before,
+.heart::after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.heart::before {
+    top: -5px;
+    left: 0;
+}
+
+.heart::after {
+    left: -5px;
+    top: 0;
+}
+
+@keyframes heartAnimation {
+    0% {
+        transform: rotate(45deg) scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+    }
+}
