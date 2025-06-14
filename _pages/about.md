@@ -11,7 +11,7 @@ redirect_from:
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&color=447FF7&center=true&vCenter=true&width=500&height=70&lines=%e2%9c%a8+%e6%ac%a2%e8%bf%8e%e6%82%a8%e7%9a%84%e5%88%b0%e6%9d%a5!" alt="动态标题">
 </p>
 
-<img align="right" height="166" width="250" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
+<img align="right" height="165" width="250" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
 
 > 探索的旅程本就是一种解法---那些笨拙的推导已为时光函数注入优雅的曲率, 即使答案永远在收敛的远方.
 
