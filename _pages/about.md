@@ -13,7 +13,7 @@ redirect_from:
 
 <img align="right" height="120" width="240" alt="" src="https://raw.githubusercontent.com/guanzhijin/guanzhijin/master/gifs/coder.gif" />
 
-> 探索的旅程本就是一种解法--那些笨拙的推导已为时光函数注入优雅的曲率, 即使答案永远在收敛的远方.
+> 探索的旅程本就是一种解法---------那些笨拙的推导已为时光函数注入优雅的曲率, 即使答案永远在收敛的远方.
 
 ### 欢迎来到我的计算实验室~
 **这里没有预设的收敛条件, 每个迭代都是面向科学的数值远征!**
